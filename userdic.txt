@@ -1,0 +1,4 @@
+2030	NNG
+MZ세대	NNG
+젊은세대	NNG
+미래세대	NNG
